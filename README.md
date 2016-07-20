@@ -1,4 +1,4 @@
-#Code Plugin for Enact CMS
+#Disqus Plugin for Enact CMS
 Plugin for [Enact CMS](https://enactcms.com).
 
 Allows embeding [Disqus](https://disqus.com) comments and comment counts.
